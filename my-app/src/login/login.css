@@ -1,0 +1,85 @@
+#login{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#login .body{
+    width: 6.37rem;
+    height: 6.3rem;
+    position:absolute;
+    top:4.06rem;
+    left:0.565rem;
+
+}
+#login .pic{
+    width: 1.54rem;
+    height: 1.35rem;
+    position: absolute;
+    top: 0;
+    left: 2.415rem;
+}
+#login .foot{
+    width: 4.36rem;
+    height: 0.74rem;
+    position: absolute;
+    top: 2.3rem;
+    left:0.35rem;
+}
+#login .form{
+    width: 5.06rem;
+    height:1.96rem;
+
+    position: absolute;
+    left: 0.655rem;
+    top:2.6rem;
+}
+#login .form-up{
+    width: 100%;
+    height:0.513rem;
+}
+#login .up-font{
+    width: 100%;
+    height: 0.36rem;
+    display: flex;
+    align-items: center;
+}
+#login .upfont-img{
+    width: 0.36rem;
+    height: 0.36rem;
+}
+#login  .up-font input{
+    color: black;
+    width: 1.85rem;
+    height: 0.36rem;
+    margin-left: 0.2rem;
+}
+#login .up-g{
+    width:5.06rem;
+    height:0.1rem;
+}
+#login .form-down{
+    margin-top: 0.44rem;
+    width: 100%;
+    height:0.513rem;
+}#login .down-font{
+     width: 100%;
+     height: 0.36rem;
+     display: flex;
+     align-items: center;
+ }
+#login .downfont-img{
+    width: 0.36rem;
+    height: 0.36rem;
+}
+#login .down-font input{
+    color: black;
+    width: 1.85rem;
+    height: 0.36rem;
+    margin-left: 0.2rem;
+}
+
+#login .countdown{
+    margin-top: 0.2rem;
+    margin-left: 1.2rem;
+}
+

@@ -1,0 +1,118 @@
+body{
+    background-color: #EFF0F1!important;
+}
+.my .header{
+    width: 7.5rem;
+    height: 6.97rem;
+    position: relative;
+}
+.my .headers{
+    text-align: center;
+    width: 4.5rem;
+    height: 4.6rem;
+    position: absolute;
+    top:1.35rem;
+    left: 1.5rem;
+}
+.my .header-pic{
+    margin: 0 auto;
+    width: 1.55rem;
+    height: 1.55rem;
+    border-radius: 50%;
+    background-color: fuchsia;
+    overflow: hidden;
+}
+.my .button-sign{
+    width: 3.6rem;
+    height: 0.97rem;
+    position: absolute;
+    top: 6.48rem;
+    left: 1.95rem;
+}
+.my .headers span:nth-child(2){
+    display: block;
+    margin-top:0.49rem;
+    font-size: 0.31rem;
+   color: #FFFFFF;
+
+}
+.my .headers span:nth-child(3){
+    display: block;
+    width: 4.5rem;
+    font-size:0.18rem;
+    color:rgba(255,255,255,0.6);
+    margin-top: 0.19rem;
+    margin-bottom: 0.53rem;
+
+}
+.my .headers-down{
+    display: flex;
+    justify-content: space-between;
+    width: 2.25rem;
+    height: 1.11rem;
+    margin:auto;
+}
+.my .headers-down-img{
+    width: 1.11rem;
+    height: 1.11rem;
+
+}
+.my .headers-down-img1{
+    width: 1.11rem;
+    height: 1.11rem;
+
+}
+.my .my-body-img{
+    position: relative;
+    width: 7.28rem;
+    height: 1.18rem;
+    margin: 0.88rem auto 0 auto;
+}
+.my .my-body-img span{
+    position: absolute;
+    color: #02BDE8;
+    font-size:0.3rem;
+    top: 0.36rem;
+    left: 5.3rem;
+
+}
+.my .my-body-img1{
+    width: 7.28rem;
+    height: 1.18rem;
+    margin: 0 auto;
+}
+.my .expert{
+    position: relative;
+}
+.my .atte{
+    width: 1.2rem;
+    height: 0.45rem;
+    text-align: center;
+    border-radius:0.5rem;
+    background-color:#D3D1D1;
+    position: absolute;
+    top: 0.4rem;
+    left: 5.4rem;
+
+}
+.my .atte span{
+    font-size: 0.26rem;
+    color: #fff;
+
+    line-height:0.45rem;
+}
+.ant-modal-close-x:before{
+    color: white;
+}
+.my .empty{
+    height:1.04rem;
+}
+.my .ant-upload.ant-upload-select-picture-card>.ant-upload{
+    width: 1.55rem;
+    height: 1.55rem;
+    padding: 0;
+}
+.my .ant-upload.ant-upload-select-picture-card{
+    width: 1.55rem;
+    height: 1.55rem;
+}

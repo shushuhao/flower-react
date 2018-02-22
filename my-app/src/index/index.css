@@ -1,0 +1,125 @@
+img{
+    width: 100%;
+    height: 100%;
+}
+.body{
+    width: 100%;
+    height: auto;
+    background-color: #EFF0F1;
+}
+.nav{
+    width: 100%;
+    height:auto;
+    padding: 0.76rem 0.22rem 0.5rem 0.22rem;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.nav-box{
+    width: 1.43rem;
+    height: 1.67rem;
+}
+.nav-box .img{
+    width: 1.43rem;
+    height: 1.43rem;
+}
+.nav-box .span-box{
+    text-align: center;
+    width: 100%;
+    height: auto;
+
+}
+.span-box span{
+    font-size: 0.2rem;
+    font-weight: bolder;
+    color: #3B464C;
+
+}
+#sy .search{
+    display: flex;
+    align-items: center;
+    width: 7.02rem;
+    height: 0.72rem;
+    background-color: #02C1E8;
+    position: absolute;
+    top:4.53rem;
+    left:0.24rem;
+    border-radius: 8px;
+}
+#sy .search-img{
+    width: 0.72rem;
+    height: 0.72rem;
+}
+#sy .search-img1{
+    width: 0.66rem;
+    height: 0.66rem;
+    margin-left: 2.25rem;
+}
+#sy .search-img2{
+    width: 0.66rem;
+    height: 0.66rem;
+}
+#sy input::-webkit-input-placeholder{
+    color: #F7F8FA;
+    opacity:0.7;
+    font-size: 0.21rem;
+}
+#sy .search input{
+    font-size: 0.21rem;
+    color:rgba(247,248,250,1) ;
+    width: 2.5rem;
+    height: 100%;
+    margin-left: 0.2rem;
+    background-color:transparent;
+}
+.guess{
+    width: 2.52rem;
+    height: 0.7rem;
+    margin:0 auto;
+}
+.g-body{
+    overflow: hidden;
+    margin: 0 auto;
+    width: 7.18rem;
+    height: 3.54rem;
+    /*background-color: #0000FF;*/
+    box-shadow:0px 2px 10px rgba(8,26,8,0.2);
+    border-radius: 8px;
+    margin-top:0.2rem;
+    position: relative;
+}
+.mask{
+    width: 100%;
+    height: 1.05rem;
+    background-color: rgba(0,0,0,0.5);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.mask-pic{
+    width:0.72rem;
+    height: 0.72rem;
+    float: left;
+    border-radius: 50%;
+    margin-left: 0.15rem;
+    background-color: orangered;
+    margin-top: 0.165rem;
+}
+.mask-font{
+    float: right;
+    width:6.16rem;
+    height:1.05rem;
+}
+.mask-font span:nth-child(1){
+    margin-top: 0.14rem;
+    display: block;
+    font-size:0.28rem;
+    color:rgba(255,255,255,0.9);
+}
+.mask-font span:nth-child(2){
+    font-size:0.24rem;
+    color:rgba(255,255,255,0.7);
+}
+.empty{
+    height:1.04rem;
+}
